@@ -27,11 +27,7 @@ This is a simple Flask program that allows a user to read various pitches from d
 ### :computer: TECHNOLOGIES USED
 
 - PYTHON
-- HTML,CSS and Bootstrap
-- Flask Framework
-- Postrgressql
-- MARKDOWN
-- Heroku
+- HTML,CSS 
 
 ### :pushpin: KNOWN BUGS
 No known bugs so far
