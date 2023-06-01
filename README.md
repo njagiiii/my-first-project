@@ -40,11 +40,11 @@ No known bugs so far
 
 Have any questions? reach me on:
 
-1. Twitter : @lucy_Mongwe
-2. faceboook : Lucy Mongwe
-3. Email : lcmongwe@gmail.com
+1. Twitter : @keshie
+2. faceboook : Grracie_kesh
+3. Email : keshgrace62@gmail.com
 
 ## licence
 MIT licence
-copyright(c)2022 Lucy Mongwe
+copyright(c)2023 Grace Makena
 
