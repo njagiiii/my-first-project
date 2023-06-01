@@ -41,7 +41,7 @@ No known bugs so far
 Have any questions? reach me on:
 
 1. Twitter : @keshie
-2. faceboook : Grracie_kesh
+2. faceboook : Gracie_kesh
 3. Email : keshgrace62@gmail.com
 
 ## licence
